@@ -20,5 +20,6 @@
            Name="Label"
            FontFamily="Consolas"
            Content="Your text here..."
-           Padding="20 0 5 0" />
+           Margin="15 0 15 0"
+           Padding="0"/>
 </Window>
